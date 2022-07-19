@@ -40,7 +40,6 @@ public class LoginTest {
 
 		if (val.equals("Valid")) {
 			if (driver.findElement(By.xpath("//span[@class='title']")).isDisplayed()) {
-				System.out.println("mark");
 				Assert.assertTrue(true);
 				log.info("****Log in Successful****");
 				login.clickLogOut(driver);

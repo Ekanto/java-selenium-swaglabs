@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+
+<CustomLevels>
+    <CustomLevel name="INFO" intLevel="350" />
+    <CustomLevel name="ERROR" intLevel="450" />
+  </CustomLevels>
+	<Properties>
+		<Property name="filename">./logs</Property>
+	</Properties>
+
+	<Appenders>
+		<RollingFile name="file" fileName="logs/logdemo.log" filePattern="${filename}/Logdemo-%d{HH-mm-ss}.log">
+			<PatternLayout>
+				<pattern>%d{HH:mm:ss} [%t] %-5level %logger{36} - %msg%n</pattern>
+			</PatternLayout>
+			<SizeBasedTriggeringPolicy size="1 MB" />
+		</RollingFile>
+		<Console name="ABC" target="SYSTEM_OUT">
+			<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+		</Console>
+	</Appenders>
+	<Loggers>
+	
+		<Root level="trace">
+			<AppenderRef ref="file" level="info"/>
+			<AppenderRef ref="file" level="error"/>
+		</Root>
+	</Loggers>
+</Configuration>

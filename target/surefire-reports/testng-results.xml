@@ -2,30 +2,30 @@
 <testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-07-19T08:20:57 BDT" name="Suite" finished-at="2022-07-19T08:21:17 BDT" duration-ms="19479">
+  <suite started-at="2022-07-19T08:41:55 BDT" name="Command line suite" finished-at="2022-07-19T08:42:17 BDT" duration-ms="22088">
     <groups>
     </groups>
-    <test started-at="2022-07-19T08:20:57 BDT" name="Test" finished-at="2022-07-19T08:21:17 BDT" duration-ms="19479">
+    <test started-at="2022-07-19T08:41:55 BDT" name="Command line test" finished-at="2022-07-19T08:42:17 BDT" duration-ms="22088">
       <class name="com.testcase.TitleTest">
-        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:com.testcase.TitleTest@56113384]" started-at="2022-07-19T08:21:00 BDT" name="browserLaunch" finished-at="2022-07-19T08:21:01 BDT" duration-ms="1605" status="PASS">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:com.testcase.TitleTest@2313052e]" started-at="2022-07-19T08:41:59 BDT" name="browserLaunch" finished-at="2022-07-19T08:42:01 BDT" duration-ms="2101" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserLaunch -->
-        <test-method signature="titleCheck()[pri:0, instance:com.testcase.TitleTest@56113384]" started-at="2022-07-19T08:21:01 BDT" name="titleCheck" finished-at="2022-07-19T08:21:01 BDT" duration-ms="19" status="PASS">
+        <test-method signature="titleCheck()[pri:0, instance:com.testcase.TitleTest@2313052e]" started-at="2022-07-19T08:42:17 BDT" name="titleCheck" finished-at="2022-07-19T08:42:17 BDT" duration-ms="11" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- titleCheck -->
-        <test-method is-config="true" signature="browserClose()[pri:0, instance:com.testcase.TitleTest@56113384]" started-at="2022-07-19T08:21:17 BDT" name="browserClose" finished-at="2022-07-19T08:21:17 BDT" duration-ms="91" status="PASS">
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:com.testcase.TitleTest@2313052e]" started-at="2022-07-19T08:42:17 BDT" name="browserClose" finished-at="2022-07-19T08:42:17 BDT" duration-ms="54" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserClose -->
       </class> <!-- com.testcase.TitleTest -->
       <class name="com.testcase.LoginTest">
-        <test-method is-config="true" signature="borwserLaunch()[pri:0, instance:com.testcase.LoginTest@5669c5fb]" started-at="2022-07-19T08:20:57 BDT" name="borwserLaunch" finished-at="2022-07-19T08:21:00 BDT" duration-ms="2502" status="PASS">
+        <test-method is-config="true" signature="borwserLaunch()[pri:0, instance:com.testcase.LoginTest@7756c3cd]" started-at="2022-07-19T08:41:55 BDT" name="borwserLaunch" finished-at="2022-07-19T08:41:59 BDT" duration-ms="4018" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- borwserLaunch -->
-        <test-method signature="loginCheck(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testcase.LoginTest@5669c5fb]" started-at="2022-07-19T08:21:02 BDT" name="loginCheck" data-provider="LoginData" finished-at="2022-07-19T08:21:05 BDT" duration-ms="2991" status="PASS">
+        <test-method signature="loginCheck(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testcase.LoginTest@7756c3cd]" started-at="2022-07-19T08:42:02 BDT" name="loginCheck" data-provider="LoginData" finished-at="2022-07-19T08:42:05 BDT" duration-ms="3203" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -46,7 +46,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginCheck -->
-        <test-method signature="loginCheck(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testcase.LoginTest@5669c5fb]" started-at="2022-07-19T08:21:05 BDT" name="loginCheck" data-provider="LoginData" finished-at="2022-07-19T08:21:06 BDT" duration-ms="275" status="PASS">
+        <test-method signature="loginCheck(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testcase.LoginTest@7756c3cd]" started-at="2022-07-19T08:42:05 BDT" name="loginCheck" data-provider="LoginData" finished-at="2022-07-19T08:42:06 BDT" duration-ms="330" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -67,7 +67,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginCheck -->
-        <test-method signature="loginCheck(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testcase.LoginTest@5669c5fb]" started-at="2022-07-19T08:21:06 BDT" name="loginCheck" data-provider="LoginData" finished-at="2022-07-19T08:21:14 BDT" duration-ms="7834" status="PASS">
+        <test-method signature="loginCheck(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testcase.LoginTest@7756c3cd]" started-at="2022-07-19T08:42:06 BDT" name="loginCheck" data-provider="LoginData" finished-at="2022-07-19T08:42:13 BDT" duration-ms="7881" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -88,7 +88,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginCheck -->
-        <test-method signature="loginCheck(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testcase.LoginTest@5669c5fb]" started-at="2022-07-19T08:21:14 BDT" name="loginCheck" data-provider="LoginData" finished-at="2022-07-19T08:21:16 BDT" duration-ms="2835" status="PASS">
+        <test-method signature="loginCheck(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testcase.LoginTest@7756c3cd]" started-at="2022-07-19T08:42:13 BDT" name="loginCheck" data-provider="LoginData" finished-at="2022-07-19T08:42:16 BDT" duration-ms="2870" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -109,7 +109,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginCheck -->
-        <test-method signature="loginCheck(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testcase.LoginTest@5669c5fb]" started-at="2022-07-19T08:21:16 BDT" name="loginCheck" data-provider="LoginData" finished-at="2022-07-19T08:21:17 BDT" duration-ms="209" status="PASS">
+        <test-method signature="loginCheck(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testcase.LoginTest@7756c3cd]" started-at="2022-07-19T08:42:16 BDT" name="loginCheck" data-provider="LoginData" finished-at="2022-07-19T08:42:17 BDT" duration-ms="239" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -130,11 +130,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginCheck -->
-        <test-method is-config="true" signature="browserClose()[pri:0, instance:com.testcase.LoginTest@5669c5fb]" started-at="2022-07-19T08:21:17 BDT" name="browserClose" finished-at="2022-07-19T08:21:17 BDT" duration-ms="59" status="PASS">
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:com.testcase.LoginTest@7756c3cd]" started-at="2022-07-19T08:42:17 BDT" name="browserClose" finished-at="2022-07-19T08:42:17 BDT" duration-ms="61" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserClose -->
       </class> <!-- com.testcase.LoginTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
 </testng-results>

@@ -196,39 +196,3 @@
 08:27:57 [main] INFO   - *****Starting test*****
 08:27:57 [main] INFO   - *****Title matched*****
 08:27:57 [main] INFO   - *****Test Completed*****
-08:30:44 [main] INFO   - :TRACE in 2cdf8d8a
-08:30:50 [main] INFO   - ****Starting Log In test****
-08:30:51 [main] INFO   - ****Log in Successful****
-08:30:53 [main] INFO   - ****Logged out****
-08:30:53 [main] INFO   - ****Starting Log In test****
-08:30:53 [main] INFO   - *****Test passed*****
-08:30:53 [main] INFO   - ****Starting Log In test****
-08:30:59 [main] INFO   - ****Log in Successful****
-08:31:01 [main] INFO   - ****Logged out****
-08:31:01 [main] INFO   - ****Starting Log In test****
-08:31:02 [main] INFO   - ****Log in Successful****
-08:31:04 [main] INFO   - ****Logged out****
-08:31:04 [main] INFO   - ****Starting Log In test****
-08:31:04 [main] INFO   - *****Test passed*****
-08:31:04 [main] INFO   - :TRACE in 2cdf8d8a
-08:31:04 [main] INFO   - *****Starting test*****
-08:31:04 [main] INFO   - *****Title matched*****
-08:31:04 [main] INFO   - *****Test Completed*****
-08:41:55 [main] INFO   - :TRACE in 2cdf8d8a
-08:42:02 [main] INFO   - ****Starting Log In test****
-08:42:03 [main] INFO   - ****Log in Successful****
-08:42:05 [main] INFO   - ****Logged out****
-08:42:05 [main] INFO   - ****Starting Log In test****
-08:42:06 [main] INFO   - *****Test passed*****
-08:42:06 [main] INFO   - ****Starting Log In test****
-08:42:11 [main] INFO   - ****Log in Successful****
-08:42:13 [main] INFO   - ****Logged out****
-08:42:13 [main] INFO   - ****Starting Log In test****
-08:42:14 [main] INFO   - ****Log in Successful****
-08:42:16 [main] INFO   - ****Logged out****
-08:42:16 [main] INFO   - ****Starting Log In test****
-08:42:17 [main] INFO   - *****Test passed*****
-08:42:17 [main] INFO   - :TRACE in 2cdf8d8a
-08:42:17 [main] INFO   - *****Starting test*****
-08:42:17 [main] INFO   - *****Title matched*****
-08:42:17 [main] INFO   - *****Test Completed*****
