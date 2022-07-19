@@ -4,7 +4,7 @@ Features of this project:
 - Keeps logs of all executed tests
 - Takes snapshots of failed cases
 - Easier Data Driven test
-- Reduced code redundency, hard coding, easier code maintanance
+- Reduced code redundency, hard coding and allows easier code maintanance
 - Simple to execute 
 - Follows the POM 
 
