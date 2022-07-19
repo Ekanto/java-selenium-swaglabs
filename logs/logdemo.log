@@ -1,0 +1,159 @@
+23:52:52 [main] INFO  Login Test - Login Test:TRACE in c387f44
+23:52:56 [main] INFO  Login Test - ****Starting Log In test****
+23:52:56 [main] INFO  Login Test - ****Log in Successful****
+23:52:59 [main] INFO  Login Test - ****Logged out****
+23:52:59 [main] INFO  Login Test - ****Starting Log In test****
+23:52:59 [main] INFO  Login Test - ****Log in Successful****
+23:53:02 [main] INFO  Login Test - ****Logged out****
+23:53:02 [main] INFO  Login Test - ****Starting Log In test****
+23:53:07 [main] INFO  Login Test - ****Log in Successful****
+23:53:10 [main] INFO  Login Test - ****Logged out****
+23:53:46 [main] INFO  Login Test - Login Test:TRACE in c387f44
+23:53:51 [TestNG-test=Test-1] INFO  Login Test - Login Test:TRACE in c387f44
+23:53:51 [TestNG-test=Test-1] INFO  Login Test - *****Starting test*****
+23:53:51 [TestNG-test=Test-1] INFO  Login Test - *****Title matched*****
+23:53:51 [TestNG-test=Test-1] INFO  Login Test - *****Test Completed*****
+23:53:52 [TestNG-test=Test-2] INFO  Login Test - ****Starting Log In test****
+23:53:53 [TestNG-test=Test-2] INFO  Login Test - ****Log in Successful****
+23:53:55 [TestNG-test=Test-2] INFO  Login Test - ****Logged out****
+23:53:55 [TestNG-test=Test-2] INFO  Login Test - ****Starting Log In test****
+23:53:56 [TestNG-test=Test-2] INFO  Login Test - ****Log in Successful****
+23:53:58 [TestNG-test=Test-2] INFO  Login Test - ****Logged out****
+23:53:58 [TestNG-test=Test-2] INFO  Login Test - ****Starting Log In test****
+23:54:03 [TestNG-test=Test-2] INFO  Login Test - ****Log in Successful****
+23:54:06 [TestNG-test=Test-2] INFO  Login Test - ****Logged out****
+04:22:49 [main] INFO  Login Test - Login Test:TRACE in c387f44
+04:22:55 [TestNG-test=Test-1] INFO  Login Test - Login Test:TRACE in c387f44
+04:22:55 [TestNG-test=Test-1] INFO  Login Test - *****Starting test*****
+04:22:55 [TestNG-test=Test-1] INFO  Login Test - *****Title matched*****
+04:22:55 [TestNG-test=Test-1] INFO  Login Test - *****Test Completed*****
+04:22:56 [TestNG-test=Test-2] INFO  Login Test - ****Starting Log In test****
+04:22:56 [TestNG-test=Test-2] INFO  Login Test - ****Log in Successful****
+04:22:59 [TestNG-test=Test-2] INFO  Login Test - ****Logged out****
+04:22:59 [TestNG-test=Test-2] INFO  Login Test - ****Starting Log In test****
+04:22:59 [TestNG-test=Test-2] INFO  Login Test - ****Log in Successful****
+04:23:02 [TestNG-test=Test-2] INFO  Login Test - ****Logged out****
+04:23:02 [TestNG-test=Test-2] INFO  Login Test - ****Starting Log In test****
+04:23:07 [TestNG-test=Test-2] INFO  Login Test - ****Log in Successful****
+04:23:10 [TestNG-test=Test-2] INFO  Login Test - ****Logged out****
+06:02:22 [main] INFO  Login Test - Login Test:TRACE in c387f44
+06:02:26 [main] INFO  Login Test - ****Starting Log In test****
+06:02:27 [main] INFO  Login Test - ****Log in Successful****
+06:02:29 [main] INFO  Login Test - ****Logged out****
+06:02:29 [main] INFO  Login Test - ****Starting Log In test****
+06:02:30 [main] INFO  Login Test - ****Starting Log In test****
+06:02:35 [main] INFO  Login Test - ****Log in Successful****
+06:02:38 [main] INFO  Login Test - ****Logged out****
+06:02:38 [main] INFO  Login Test - ****Starting Log In test****
+06:02:38 [main] INFO  Login Test - ****Log in Successful****
+06:02:40 [main] INFO  Login Test - ****Logged out****
+06:13:46 [main] INFO  Login Test - Login Test:TRACE in c387f44
+06:13:50 [main] INFO  Login Test - ****Starting Log In test****
+06:15:13 [main] INFO  Login Test - Login Test:TRACE in c387f44
+06:15:17 [main] INFO  Login Test - ****Starting Log In test****
+06:18:02 [main] INFO  Login Test - Login Test:TRACE in c387f44
+06:18:06 [main] INFO  Login Test - ****Starting Log In test****
+06:18:06 [main] INFO  Login Test - bla bla bla
+06:19:59 [main] INFO  Login Test - Login Test:TRACE in c387f44
+06:20:03 [main] INFO  Login Test - ****Starting Log In test****
+06:23:47 [main] INFO  Login Test - Login Test:TRACE in c387f44
+06:23:52 [main] INFO  Login Test - ****Starting Log In test****
+06:23:52 [main] INFO  Login Test - test failed
+06:25:20 [main] INFO  Login Test - Login Test:TRACE in c387f44
+06:25:24 [main] INFO  Login Test - ****Starting Log In test****
+06:27:45 [main] INFO  Login Test - Login Test:TRACE in c387f44
+06:27:48 [main] INFO  Login Test - ****Starting Log In test****
+06:39:27 [main] INFO  Login Test - Login Test:TRACE in c387f44
+06:39:31 [main] INFO  Login Test - ****Starting Log In test****
+06:41:04 [main] INFO  Login Test - Login Test:TRACE in c387f44
+06:41:08 [main] INFO  Login Test - ****Starting Log In test****
+06:41:09 [main] INFO  Login Test - ****Log in Successful****
+06:41:11 [main] INFO  Login Test - ****Logged out****
+06:41:11 [main] INFO  Login Test - ****Starting Log In test****
+06:41:11 [main] INFO  Login Test - ****Starting Log In test****
+06:41:17 [main] INFO  Login Test - ****Log in Successful****
+06:41:19 [main] INFO  Login Test - ****Logged out****
+06:41:19 [main] INFO  Login Test - ****Starting Log In test****
+06:41:20 [main] INFO  Login Test - ****Log in Successful****
+06:41:22 [main] INFO  Login Test - ****Logged out****
+06:47:48 [main] INFO  Login Test - Login Test:TRACE in c387f44
+06:47:52 [main] INFO  Login Test - ****Starting Log In test****
+06:47:52 [main] INFO  Login Test - ****Log in Successful****
+06:47:55 [main] INFO  Login Test - ****Logged out****
+06:47:55 [main] INFO  Login Test - ****Starting Log In test****
+06:47:55 [main] INFO  Login Test - Test passed
+06:47:55 [main] INFO  Login Test - ****Starting Log In test****
+06:48:00 [main] INFO  Login Test - ****Log in Successful****
+06:48:03 [main] INFO  Login Test - ****Logged out****
+06:48:03 [main] INFO  Login Test - ****Starting Log In test****
+06:48:03 [main] INFO  Login Test - ****Log in Successful****
+06:48:06 [main] INFO  Login Test - ****Logged out****
+06:49:50 [main] INFO  Login Test - Login Test:TRACE in c387f44
+06:49:55 [main] INFO  Login Test - ****Starting Log In test****
+06:49:55 [main] INFO  Login Test - ****Log in Successful****
+06:49:58 [main] INFO  Login Test - ****Logged out****
+06:49:58 [main] INFO  Login Test - ****Starting Log In test****
+06:49:58 [main] INFO  Login Test - ****Starting Log In test****
+06:50:03 [main] INFO  Login Test - ****Log in Successful****
+06:50:06 [main] INFO  Login Test - ****Logged out****
+06:50:06 [main] INFO  Login Test - ****Starting Log In test****
+06:50:06 [main] INFO  Login Test - ****Log in Successful****
+06:50:09 [main] INFO  Login Test - ****Logged out****
+07:04:19 [main] INFO  Login Test - Login Test:TRACE in c387f44
+07:04:23 [main] INFO  Login Test - ****Starting Log In test****
+07:04:24 [main] INFO  Login Test - ****Log in Successful****
+07:04:26 [main] INFO  Login Test - ****Logged out****
+07:04:26 [main] INFO  Login Test - ****Starting Log In test****
+07:04:27 [main] INFO  Login Test - *****Test passed*****
+07:04:27 [main] INFO  Login Test - ****Starting Log In test****
+07:04:32 [main] INFO  Login Test - ****Log in Successful****
+07:04:35 [main] INFO  Login Test - ****Logged out****
+07:04:35 [main] INFO  Login Test - ****Starting Log In test****
+07:04:35 [main] INFO  Login Test - ****Log in Successful****
+07:04:37 [main] INFO  Login Test - ****Logged out****
+07:04:37 [main] INFO  Login Test - ****Starting Log In test****
+07:04:38 [main] INFO  Login Test - *****Test passed*****
+07:04:58 [main] INFO  Login Test - Login Test:TRACE in c387f44
+07:05:03 [TestNG-test=Test-1] INFO  Login Test - Login Test:TRACE in c387f44
+07:05:03 [TestNG-test=Test-1] INFO  Login Test - *****Starting test*****
+07:05:03 [TestNG-test=Test-1] INFO  Login Test - *****Title matched*****
+07:05:03 [TestNG-test=Test-1] INFO  Login Test - *****Test Completed*****
+07:05:04 [TestNG-test=Test-2] INFO  Login Test - ****Starting Log In test****
+07:05:04 [TestNG-test=Test-2] INFO  Login Test - ****Log in Successful****
+07:05:07 [TestNG-test=Test-2] INFO  Login Test - ****Logged out****
+07:05:07 [TestNG-test=Test-2] INFO  Login Test - ****Starting Log In test****
+07:05:07 [TestNG-test=Test-2] INFO  Login Test - *****Test passed*****
+07:05:07 [TestNG-test=Test-2] INFO  Login Test - ****Starting Log In test****
+07:05:13 [TestNG-test=Test-2] INFO  Login Test - ****Log in Successful****
+07:05:15 [TestNG-test=Test-2] INFO  Login Test - ****Logged out****
+07:05:15 [TestNG-test=Test-2] INFO  Login Test - ****Starting Log In test****
+07:05:16 [TestNG-test=Test-2] INFO  Login Test - ****Log in Successful****
+07:05:18 [TestNG-test=Test-2] INFO  Login Test - ****Logged out****
+07:05:18 [TestNG-test=Test-2] INFO  Login Test - ****Starting Log In test****
+07:05:18 [TestNG-test=Test-2] INFO  Login Test - *****Test passed*****
+07:22:14 [main] INFO  com.log.Log4jClass - com.log.Log4jClass:TRACE in c387f44
+07:22:14 [main] INFO  com.log.Log4jClass - *****Starting test*****
+07:22:14 [main] INFO  com.log.Log4jClass - *****Title matched*****
+07:22:14 [main] INFO  com.log.Log4jClass - *****Test Completed*****
+07:25:05 [main] INFO   - :TRACE in c387f44
+07:25:05 [main] INFO   - *****Starting test*****
+07:25:05 [main] INFO   - *****Title matched*****
+07:25:05 [main] INFO   - *****Test Completed*****
+07:51:45 [main] INFO   - :TRACE in c387f44
+07:51:51 [TestNG-test=Test-1] INFO   - :TRACE in c387f44
+07:51:51 [TestNG-test=Test-1] INFO   - *****Starting test*****
+07:51:51 [TestNG-test=Test-1] INFO   - *****Title matched*****
+07:51:51 [TestNG-test=Test-1] INFO   - *****Test Completed*****
+07:51:52 [TestNG-test=Test-2] INFO   - ****Starting Log In test****
+07:51:52 [TestNG-test=Test-2] INFO   - ****Log in Successful****
+07:51:55 [TestNG-test=Test-2] INFO   - ****Logged out****
+07:51:55 [TestNG-test=Test-2] INFO   - ****Starting Log In test****
+07:51:55 [TestNG-test=Test-2] INFO   - *****Test passed*****
+07:51:55 [TestNG-test=Test-2] INFO   - ****Starting Log In test****
+07:52:00 [TestNG-test=Test-2] INFO   - ****Log in Successful****
+07:52:03 [TestNG-test=Test-2] INFO   - ****Logged out****
+07:52:03 [TestNG-test=Test-2] INFO   - ****Starting Log In test****
+07:52:03 [TestNG-test=Test-2] INFO   - ****Log in Successful****
+07:52:06 [TestNG-test=Test-2] INFO   - ****Logged out****
+07:52:06 [TestNG-test=Test-2] INFO   - ****Starting Log In test****
+07:52:06 [TestNG-test=Test-2] INFO   - *****Test passed*****
